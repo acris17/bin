@@ -1,5 +1,5 @@
-# Motivation
-I wanted a program to manage the installation of my personal programs.
+# bin
+Manage the installation of personal programs.
 
 ## Examples
 ```$ bin install hello```
@@ -14,7 +14,7 @@ I wanted a program to manage the installation of my personal programs.
 
 ```$ make```
 
-2. Ensure program is in release directory.
+2. Ensure the program is in release directory.
 
 ```./target/release/bin```
 
